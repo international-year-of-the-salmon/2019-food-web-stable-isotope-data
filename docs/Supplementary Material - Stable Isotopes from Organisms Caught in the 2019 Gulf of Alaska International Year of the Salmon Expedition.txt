@@ -1,0 +1,12 @@
+Stable Isotope Data Collection and Processing Protocols from the 2019 Gulf of Alaska International Year of the Salmon Expedition
+
+Particulate Organic Matter (POM) Carbon and Nitrogen Isotopes:
+These samples were collected at every grid station to (a) provide an isotope baseline for the Gulf of Alaska for application in trophic studies; (b) identify spatial variation in isotope signatures that can be used to trace salmon movement; and (c) validate existing predictive models for Gulf of Alaska isotopes (ISOSCAPES).
+Sample collection procedure: approximately 5L of water was collected from the sea surface (~ 2m depth), using the Rosette, at every station. 2000ml was filtered onto a pre-combusted 25mm GF/F filter; and another 2000ml was filtered onto a pre-combusted 25mm GF/F filter and ACIDIFIED by immersion in 1M HCl for 30 seconds on the filter holder. After acidification, the sample was rinsed with 0.7 μm filtered seawater and dried by applying vacuum pressure to the filter. Each filter was transferred to its own Aluminum foil envelope and stored at -20C. Samples were stored at UBC at -20C until processing.
+
+Food Web Biogeochemistry:
+Stable carbon and nitrogen isotopes of all components of the pelagic food web in the Gulf of Alaska, representative of sub-regions identified based on physical, chemical and biological variables were collected whenever possible (usually at every grid station).
+Sample collection included (all samples were stored frozen at UBC until the time of analysis):
+	1. Particulate Organic Matter (POM) – collected at the sea surface using a Niskin rosette at every station.
+	2. Zooplankton – collected using a Bongo net hauled through the upper 250 m of the water column. Samples were split into size fractions and the largest size fraction (> 4 mm) spilt into species. The majority of samples were stored at -20C, which is suitable for stable isotope analysis.
+	3. Trawl salmon and bycatch – representative samples of all species in the trawl catch were collected at every station during the survey. The majority of samples were stored at -20C, which is suitable for stable isotope analysis.
